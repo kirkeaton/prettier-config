@@ -1,0 +1,17 @@
+{
+  "name": "@kirkeaton/prettier-config",
+  "description": "Prettier config for my projects",
+  "version": "0.0.0-development",
+  "author": "Kirk Eaton <contact@kirkeaton.ca>",
+  "homepage": "https://github.com/kirkeaton/prettier-config#readme",
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "prettier.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkeaton/prettier-config.git"
+  }
+}

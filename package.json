@@ -3,12 +3,16 @@
   "description": "Prettier config for my projects",
   "version": "0.0.0-development",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
+  "devDependencies": {
+    "semantic-release": "23.0.4"
+  },
   "homepage": "https://github.com/kirkeaton/prettier-config#readme",
   "keywords": [
     "prettier",
     "config"
   ],
   "license": "BSD-3-Clause",
+  "packageManager": "pnpm@8.15.4+sha256.cea6d0bdf2de3a0549582da3983c70c92ffc577ff4410cbf190817ddc35137c2",
   "main": "prettier.json",
   "repository": {
     "type": "git",

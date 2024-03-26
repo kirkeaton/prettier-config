@@ -4,6 +4,7 @@
   "version": "0.0.0-development",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
   "devDependencies": {
+    "@kirkeaton/semantic-release-config": "1.0.0",
     "semantic-release": "23.0.4"
   },
   "files": [

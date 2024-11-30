@@ -1,7 +1,7 @@
 {
   "name": "@kirkeaton/prettier-config",
-  "description": "Prettier config for my projects",
   "version": "0.0.0-development",
+  "description": "Prettier config for my projects",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
   "devDependencies": {
     "@kirkeaton/semantic-release-config": "1.0.1",
